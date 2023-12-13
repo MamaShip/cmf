@@ -1,2 +1,2 @@
 # cmf
-a golang tools for handling CMF(CODIS Rapid Import Common Message Format) files.
+a golang tool for handling CMF(CODIS Rapid Import Common Message Format) files.
